@@ -83,8 +83,10 @@ Follow these steps to set up the chatbot locally:
 3. **Set Up Environment Variables**:
     Create a `.env` file with the following variables:
     ```env
-    ASTRA_DB_APPLICATION_TOKEN=<your_astra_db_token>
-    OPENAI_API_KEY=<your_openai_api_key>
+APP_TOKEN =
+LANGFLOW_ID =
+FLOW_ID =
+    
     ```
 
 4. **Run the Application**:
