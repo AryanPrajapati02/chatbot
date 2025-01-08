@@ -83,9 +83,9 @@ Follow these steps to set up the chatbot locally:
 3. **Set Up Environment Variables**:
     Create a `.env` file with the following variables:
     ```env
-APP_TOKEN =
-LANGFLOW_ID =
-FLOW_ID =
+     APP_TOKEN =
+     LANGFLOW_ID =
+     FLOW_ID =
     
     ```
 
