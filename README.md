@@ -119,7 +119,7 @@ Follow these steps to set up the chatbot locally:
 
 ### Langflow Workflow
 
-![Langflow Workflow](./images/langflow_workflow.png)
+![Langflow Workflow](./images/chatbot_flow.png)
 *The Langflow interface showing the chatbot’s logic.*
 
 ### Streamlit Interface
