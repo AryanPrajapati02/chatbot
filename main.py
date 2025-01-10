@@ -27,7 +27,7 @@ def run_flow(message: str) -> dict:
     return response.json()
 
 def main():
-    st.title("Chat Interface")
+    st.title("InfiAi Chat Interface")
     
     message = st.text_area("Message", placeholder="Ask something...")
     
