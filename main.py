@@ -29,7 +29,7 @@ def run_flow(message: str) -> dict:
 def main():
     st.title("InfiAi Chat Interface")
     
-    message = st.text_area("Message", placeholder="Ask something...")
+    message = st.text_area("Let's Analyse Social Media Insights", placeholder="Ask something...")
     
     if st.button("Run Flow"):
         if not message.strip():
